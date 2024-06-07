@@ -6,7 +6,7 @@ const Footer = () => {
         <div id="footer-container">
           <div id="footer-logo">
             <img src={img} alt="" />
-            <p>HCM-01 All rights reserved</p>
+            <p> D´eiGuard All rights reserved</p>
           </div>
   
           <ul className="footer-list">

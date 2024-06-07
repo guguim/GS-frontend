@@ -5,12 +5,12 @@ const Navbar = () => {
         <nav className="navbar">
             <div className="nav-logo">
             <img className="logo" src={logo} alt="logo HC" />
-                <p className="nav-logo-txt">O C E A N</p>
+                <p className="nav-logo-txt"> D´eiGuard</p>
             </div>
             <ul className="nav-list">
                 <li>
                     <a className="nav-txt" href="#banner">
-                        O C E A N
+                        D´eiGuard
                     </a>
                 </li>
                 <li>
