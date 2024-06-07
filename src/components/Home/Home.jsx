@@ -1,4 +1,5 @@
 import "./Home.scss";
+import React from 'react';
 import Navbar from "../components/Navbar";
 import Forms from "../components/Forms";
 import Footer from "../components/Footer";
@@ -14,7 +15,9 @@ const Home = () => {
 
 return  (
     <>
-    <Navbar />
+        <Navbar />
+        
+
     </>
 )
 
